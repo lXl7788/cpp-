@@ -1,0 +1,23 @@
+# Build & Dependency
+/target/
+/build/
+*.class
+*.jar
+*.war
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# Logs & Temp
+*.log
+*.tmp
+*.bak
+
+# Environment
+.env
+*.properties
+/config/
